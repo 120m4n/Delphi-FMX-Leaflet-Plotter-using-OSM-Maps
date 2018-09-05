@@ -52,7 +52,7 @@ points list.
 **Blog**
 
 **Read the Blog:-**
-[https://www.Bayeseanblog.com](https://www.bayeseanblog.com/) to understand how
+[Delphi-FMX-leaflet-plotter-using-OSM-Maps](https://bayeseanblog.com/blog/delphi-fmx-leaflet-plotter-using-osm-maps/25) to understand how
 the code works.
 
 Happy Coding
